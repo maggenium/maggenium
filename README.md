@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Web Development with the base HTML, CSS & JS stack.
+- 🌱 I’m currently learning Web Development using the base HTML, CSS & JS stack.
 - 🔭 I’m currently working on a simple shopping list app to include in my portfolio.
 
 ![Codewars](https://github.r2v.ch/codewars?user=maggenium&stroke=orange)
