@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development using the base HTML, CSS & JS stack.
 - 🔭 I’m currently working on a simple shopping list app to include in my portfolio.
 
-![Codewars](https://github.r2v.ch/codewars?user=maggenium&stroke=orange)
+![Codewars](https://github.r2v.ch/codewars?user=maggenium&stroke=yellow)
 
 <!--
 **maggenium/maggenium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
